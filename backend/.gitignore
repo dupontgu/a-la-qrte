@@ -1,0 +1,8 @@
+pyvenv.cfg
+out*
+__pycache__/
+bin/
+img/
+include/
+lib/
+temp/
